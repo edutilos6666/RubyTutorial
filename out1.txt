@@ -1,0 +1,5 @@
+10
+foobar
+edu
+true
+100.0
